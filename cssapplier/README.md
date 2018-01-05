@@ -4,5 +4,5 @@ PHP page that will get the contests of the website and apply custom CSS to the l
 
 ---
 
-When running on a server, apply the following settings to the PHP.ini after it's generated.
+When running on a server, apply the following settings to the PHP.ini after it's generated:
 allow_url_fopen=0 to allow_url_fopen=1
