@@ -20,7 +20,7 @@ We've added chat (with optional Discord intigration!) to our chat. Now you can f
 
 Thanks to [EndenDragon’s Titan Embeds](https://github.com/TitanEmbeds/Titan) for making all of this possible.
 
-## Afread of not being up to date?
+## Afraid of not being up to date?
 
 You won't be anymore after installing this app thanks to push notifications for Android. When one of Daily Nintendo's writers has something important for you to read you can expect a push notification very soon to let you know about this.
 
