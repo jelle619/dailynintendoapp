@@ -6,7 +6,7 @@ A website for the Daily Nintendo App. Users can download and view information al
 
 ## This is what Daily Nintendo on smartphones is supposed to be
 
-![alt text](https://github.com/jelle619/dailynintendoapp/raw/master/site/img/shot-3.png "Article View")
+![alt text](https://github.com/jelle619/dailynintendoapp/raw/master/siteassets/img/shot-3.png "Article View")
 
 The Daily Nintendo App is an application for both iOS and Android that aims to improve your experience.
 
