@@ -1,41 +1,7 @@
 /* 
     Created on       : Jul 4, 2017, 12:43:10 AM
     Original template: Atta-Ur-Rehman Shah (http://attacomsian.com)
-    GitHub corners   : Tim Holman, hitboxfix by NNTin (https://jsfiddle.net/hgjrrt5k/)
 */
-
-/*GitHub corners*/
-.github-corner:hover .octo-arm {
-  animation: octocat-wave 560ms ease-in-out
-}
-
-.github-corner {
-  pointer-events: none
-}
-
-@keyframes octocat-wave {
-  0%,
-  100% {
-    transform: rotate(0)
-  }
-  20%,
-  60% {
-    transform: rotate(-25deg)
-  }
-  40%,
-  80% {
-    transform: rotate(10deg)
-  }
-}
-
-@media (max-width:500px) {
-  .github-corner:hover .octo-arm {
-    animation: none
-  }
-  .github-corner .octo-arm {
-    animation: octocat-wave 560ms ease-in-out
-  }
-}
 
 /*Google fonts*/
 @import url('https://fonts.googleapis.com/css?family=Catamaran:200,300,400,500,600,700,900');
