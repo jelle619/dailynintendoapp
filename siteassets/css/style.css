@@ -3,38 +3,8 @@
     Original template: Atta-Ur-Rehman Shah (http://attacomsian.com)
 */
 
-/*Font*/
-@font-face {
-    font-family: Roboto;
-    font-style: light;
-    font-weight: 300;
-    src: url("../font/roboto_light.woff") format("woff")
-}
-
-@font-face {
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 500;
-    src: url("../font/roboto_regular.woff") format("woff")
-}
-
-@font-face {
-    font-family: Roboto;
-    font-style: medium;
-    font-weight: 600;
-    src: url("../font/roboto_medium.woff") format("woff")
-}
-
-@font-face {
-    font-family: Roboto;
-    font-style: bold;
-    font-weight: 700;
-    src: url("siteassets/font/roboto_bold.woff") format("woff")
-}
-
-* {
-font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
-}
+/*Google fonts*/
+@import url('https://fonts.googleapis.com/css?family=Catamaran:200,300,400,500,600,700,900');
 
 html,
 body {
