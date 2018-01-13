@@ -58,7 +58,39 @@
         <!--video-->
         <section class="bg-alt" id="features">
             <div class="container">
-                <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/hS2JMmyrrWk?&rel=0&theme=light&showinfo=0&autohide=1&color=white' frameborder='0' allowfullscreen></iframe></div>
+                <div id="player"></div>
+                <script src="https://luwes.github.io/vimeowrap.js/vimeowrap.js"></script>
+                <script src="https://luwes.github.io/vimeowrap.js/vimeowrap.carousel.js"></script>
+                <script>
+                    vimeowrap('player').setup({
+                        width: 480,
+                        height: 280,
+                        color: '009900',
+                        autoplay: false,
+                        portrait: false,
+                        title: true,
+                        byline: false,
+                        urls: [
+                            'https://vimeo.com/250151083',
+                            'https://vimeo.com/250152837'
+                        ],
+                        plugins: {
+                            'carousel': {
+                                 width: 480,
+                                 height: 150,
+                                 offsetx: 60,
+                                 offsety: 20,
+                                 visible: 3,
+                                 autoplay: true,
+                                 thumb: {
+                                     width: 80,
+                                     height: 50,   
+                                     quality: 'large'
+                                 }
+                            }
+                        }
+                    });
+                </script>
             </div>
         </section>
 
