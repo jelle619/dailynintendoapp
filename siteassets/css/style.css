@@ -4,7 +4,16 @@
 */
 
 /*Video.js Resize/Recenter*/
-.video-js { margin: 0 auto; width: 400px; }
+.video-js {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+/*Text-align for disclaimer div*/
+.disclaimertext {
+    text-align: center;
+}
 
 /*Accordion (https://www.w3schools.com/howto/howto_js_accordion.asp)*/
 .accordion {
