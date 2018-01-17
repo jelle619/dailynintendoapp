@@ -6,7 +6,7 @@
 /*Teaser Resize/Recenter*/
 .teaser {
   width: 100%    !important;
-  height: auto   !important;
+  height: 500px   !important;
 }
 
 /*Text-align for disclaimer div*/
