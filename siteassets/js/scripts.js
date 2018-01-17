@@ -25,6 +25,9 @@ $(function () {
     //Accordion (https://www.w3schools.com/howto/howto_js_accordion.asp)
     var acc=document.getElementsByClassName("accordion");var i;for(i=0;i<acc.length;i+=1){acc[i].addEventListener("click",function(){this.classList.toggle("active");var panel=this.nextElementSibling;if(panel.style.maxHeight){panel.style.maxHeight=null}else{panel.style.maxHeight=panel.scrollHeight+"px"}})}
    
+    //Info popup
+    window.alert("De ontwikkeling van de Daily Nintendo App is stopgezet. Bedankt voor uw interesse!");
+ 
     //page scroll
     $('a.page-scroll').bind('click', function (event) {
         var $anchor = $(this);
