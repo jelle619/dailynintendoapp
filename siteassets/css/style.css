@@ -3,6 +3,9 @@
     Original template: Atta-Ur-Rehman Shah (http://attacomsian.com)
 */
 
+/*Video.js Resize/Recenter*/
+.video-js { margin: 0 auto; width: 400px; }
+
 /*Accordion (https://www.w3schools.com/howto/howto_js_accordion.asp)*/
 .accordion {
     background-color: #eee;
