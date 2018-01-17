@@ -3,11 +3,10 @@
     Original template: Atta-Ur-Rehman Shah (http://attacomsian.com)
 */
 
-/*Teasee Resize/Recenter*/
+/*Teaser Resize/Recenter*/
 .teaser {
-    margin-right: auto;
-    margin-left: auto;
-    display: block;
+  width: 100%    !important;
+  height: auto   !important;
 }
 
 /*Text-align for disclaimer div*/
