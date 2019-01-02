@@ -1,4 +1,4 @@
-# The Daily Nintendo App is discontinued. Thank you for your interest nontheless!
+# Daily Nintendo App
 
 ![alt text](https://github.com/jelle619/dailynintendoapp/raw/master/siteassets/img/shot-3.png "Article View")
 
