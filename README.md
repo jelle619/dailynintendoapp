@@ -4,9 +4,10 @@
 
 The Daily Nintendo App is an application for both iOS and Android that aims to improve your experience.
 
-## Faster than light, easier than answering life (it's 42 by the way)
+## Faster than light
 
 Thanks to its optimalisation the Daily Nintendo App is faster than the website and navigation is simplified and improved with 
+the adition of a native menu.
 
 ## Real-time chat, it's here!
 
